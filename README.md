@@ -1,6 +1,4 @@
-# THPMOOCademy
-
-# The Hacking Project - BlogTHP
+# The Hacking Project - THPMOOCademy
 
 
 ## 📰 The content
